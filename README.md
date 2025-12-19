@@ -149,8 +149,6 @@ To run the project:
 - Hiring team: **$50,000 - $80,000+**
 - Self-development: **6-9 months** full-time
 
-**→ Save 98% of costs with just $1,000!**
-
 ---
 
 ## 🎁 Bonus
