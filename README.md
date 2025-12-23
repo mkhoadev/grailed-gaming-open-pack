@@ -1,4 +1,4 @@
-# 🎮 Grailed Clone - White-Label Gaming Script
+# 🎮 Game open pack - White-Label Gaming Script
 
 A complete clone of the Grailed platform. Focused on pack opening experience and direct battles between users. Pre-integrated with Web3 payments on Polygon network.
 
@@ -131,23 +131,6 @@ To run the project:
 - Privy Account (free tier available)
 - Polygon wallet to receive payments
 - VPS/Cloud server (for deployment)
-
----
-
-## 💰 Real Value
-
-### Development Time
-
-- **Frontend**: ~200+ hours
-- **Backend**: ~300+ hours
-- **Admin Panel**: ~100+ hours
-- **Testing & Bug Fixes**: ~100+ hours
-- **Total**: **700+ hours** of development
-
-### Estimated Cost If Self-Developed
-
-- Hiring team: **$50,000 - $80,000+**
-- Self-development: **6-9 months** full-time
 
 ---
 
